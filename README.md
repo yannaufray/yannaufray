@@ -19,7 +19,7 @@
   <img alt="Github" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-cod" /> -->
   
   <ul>
-    <li>Languages: HTML/CSS, JavaScript</li>
+    <li>Languages: HTML/CSS, JavaScript (ES6)</li>
     <li>CSS Framework: Tailwind</li>
     <li>Frontend framework: Vue 3</li>
     <li>State management: Pinia (Vuex 5)</li>
