@@ -24,7 +24,7 @@
     <li>Frontend framework: Vue 3</li>
     <li>State management: Pinia (Vuex 5)</li>
     <li>Workflow & tools: Git, Github, Trello, VS Code, npm, Vite</li>
-    <li>What's next? Jest, Nuxt, TypeScript</li>
+    <li>What's next? Jest, Nuxt, TypeScript, GraphQL</li>
   </ul>
 </p>
   <h3>Where to find me</h3>
